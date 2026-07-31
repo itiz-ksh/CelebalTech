@@ -1,0 +1,224 @@
+customer_id,customer_name,segment,country,city,state,postal_code,region,first_order_date,total_sales,total_profit,total_orders
+MC-17590,Matt Collister,Corporate,United States,San Marcos,Texas,78666,Central,2014-05-20,2426.07,288.98,6
+CD-11920,Carlos Daly,Consumer,United States,New York City,New York,10024,East,2014-03-24,2033.97,426.66,5
+JB-16045,Julia Barnett,Home Office,United States,Chula Vista,California,91911,West,2015-05-03,2518.12,201.52,5
+AD-10180,Alan Dominguez,Consumer,United States,Philadelphia,Pennsylvania,19134,East,2014-11-19,7836.84,2598.79,11
+CC-12550,Clay Cheatham,Consumer,United States,San Francisco,California,94122,West,2017-06-15,113.83,33.87,3
+PG-18895,Paul Gonzalez,Consumer,United States,Fort Worth,Texas,76106,Central,2014-05-11,1987.16,334.52,9
+BS-11380,Bill Stewart,Corporate,United States,Skokie,Illinois,60076,Central,2014-11-29,3887.83,-17.53,5
+LR-16915,Lena Radford,Corporate,United States,San Diego,California,92024,West,2014-08-08,5787.98,667.73,8
+SF-20965,Sylvia Foulston,Corporate,United States,San Diego,California,92024,West,2014-10-21,3336.54,539.94,9
+LO-17170,Lori Olson,Corporate,United States,Suffolk,Virginia,23434,South,2015-02-06,644.35,150.17,5
+TT-21070,Ted Trevino,Consumer,United States,Akron,Ohio,44312,East,2014-05-18,4915.6,751.96,7
+ES-14020,Erica Smith,Corporate,United States,San Francisco,California,94110,West,2014-09-20,4128.87,1063.34,6
+RB-19360,Raymond Buch,Corporate,United States,Auburn,New York,13021,East,2016-04-01,19431.84,9070.42,8
+KF-16285,Karen Ferguson,Home Office,United States,San Diego,California,92105,West,2014-09-26,10604.27,1660.14,7
+SM-20905,Susan MacKendrick,Consumer,United States,Newark,Ohio,43055,East,2016-05-03,1043.04,-237.29,1
+BM-11575,Brendan Murry,Corporate,United States,New York City,New York,10035,East,2015-09-15,808.16,95.58,6
+RD-19585,Rob Dowd,Corporate,United States,Athens,Georgia,30605,South,2014-04-02,3373.43,984.25,13
+AG-10765,Anthony Garverick,Consumer,United States,Philadelphia,Pennsylvania,19120,East,2014-09-17,192.86,-10.3,7
+MY-17380,Maribeth Yedwab,Home Office,United States,Rancho Cucamonga,California,91730,West,2015-10-26,2629.57,410.1,9
+MO-17500,Mary O'Rourke,Corporate,United States,Freeport,New York,11520,East,2014-11-28,1122.16,71.24,7
+AS-10090,Adam Shillingsburg,Consumer,United States,New York City,New York,10035,East,2014-09-22,3255.31,64.54,9
+AH-10690,Anna HÃ¤berlin,Corporate,United States,Virginia Beach,Virginia,23464,South,2014-04-02,7888.29,1298.02,12
+NR-18550,Nick Radford,Consumer,United States,Aurora,Illinois,60505,Central,2014-06-07,2367.28,-25.15,5
+DP-13000,Darren Powers,Corporate,United States,Houston,Texas,77095,Central,2014-01-03,1339.43,277.94,11
+BN-11515,Bradley Nguyen,Consumer,United States,Lakeville,Minnesota,55044,Central,2014-03-17,1459.34,340.71,5
+PM-19135,Peter McVee,Home Office,United States,Dover,New Hampshire,3820,East,2015-12-19,4115.66,526.75,4
+BP-11050,Barry Pond,Corporate,United States,Chicago,Illinois,60623,Central,2014-10-12,983.42,209.78,5
+JE-15745,Joel Eaton,Corporate,United States,Louisville,Colorado,80027,West,2014-06-22,7514.74,233.36,15
+JK-15625,Jim Karlsson,Consumer,United States,Jackson,Mississippi,39212,South,2014-05-31,3760.03,750.95,7
+LE-16810,Laurel Elliston,Consumer,United States,Chicago,Illinois,60653,Central,2014-05-27,1469.45,161.76,6
+KT-16465,Kean Takahito,Corporate,United States,Houston,Texas,77036,Central,2014-09-08,3492.23,325.41,9
+SP-20860,Sung Pak,Corporate,United States,Chicago,Illinois,60623,Central,2014-12-15,4282.94,566.72,10
+ME-17725,Max Engle,Consumer,United States,Chicago,Illinois,60610,Central,2014-07-12,1908.45,77.81,8
+JA-15970,Joseph Airdo,Consumer,United States,Springfield,Oregon,97477,West,2014-09-17,6491.03,-819.42,8
+AB-10015,Aaron Bergman,Consumer,United States,Arlington,Texas,76017,Central,2014-02-18,886.16,129.35,3
+MS-17830,Melanie Seite,Corporate,United States,Laredo,Texas,78041,Central,2014-01-09,450.15,22.86,5
+MG-17650,Matthew Grinstein,Home Office,United States,Seattle,Washington,98103,West,2014-08-09,3785.28,341.9,7
+CR-12820,Cyra Reiten,Consumer,United States,West Palm Beach,Florida,33407,South,2015-01-24,1499.37,95.38,6
+CR-12625,Corey Roper,Consumer,United States,Lakewood,New Jersey,8701,East,2014-06-01,564.4,151.3,4
+TB-21250,Tim Brockman,Corporate,United States,Salem,Oregon,97301,West,2014-12-08,1864.14,266.09,9
+SS-20875,Sung Shariari,Corporate,United States,Marion,Ohio,43302,East,2014-12-14,1026.44,-98.93,8
+EB-14110,Eugene Barchas,Consumer,United States,Los Angeles,California,90045,West,2015-04-13,3071.13,184.77,6
+TT-21265,Tim Taslimi,Corporate,United States,Los Angeles,California,90045,West,2015-08-15,439.5,93.92,3
+BF-11020,Barry FranzÃ¶sisch,Corporate,United States,Seattle,Washington,98105,West,2014-02-15,2888.51,302.02,8
+GP-14740,Guy Phonely,Corporate,United States,Lancaster,Pennsylvania,17602,East,2014-04-06,236.53,31.84,2
+SK-19990,Sally Knutson,Consumer,United States,Fairfield,Connecticut,6824,East,2016-11-28,883.41,168.79,3
+BD-11620,Brian DeCherney,Consumer,United States,Wilmington,North Carolina,28403,South,2014-06-30,1538.11,206.76,6
+ER-13855,Elpida Rittenbach,Corporate,United States,Colorado Springs,Colorado,80906,West,2015-12-21,1245.79,-295.74,3
+DP-13105,Dave Poirier,Corporate,United States,New York City,New York,10035,East,2015-08-22,2215.0,563.18,8
+DK-13375,Dennis Kane,Consumer,United States,New York City,New York,10024,East,2014-09-07,3318.49,377.08,8
+BD-11770,Bryan Davis,Corporate,United States,Philadelphia,Pennsylvania,19143,East,2016-03-10,850.42,174.36,8
+DC-13285,Debra Catini,Consumer,United States,Cottage Grove,Minnesota,55016,Central,2014-12-29,1174.62,132.07,5
+SM-20005,Sally Matthias,Consumer,United States,Scottsdale,Arizona,85254,West,2014-11-23,244.49,-26.59,4
+LC-17140,Logan Currie,Consumer,United States,Philadelphia,Pennsylvania,19140,East,2014-09-09,2633.58,231.13,9
+SC-20380,Shahid Collister,Consumer,United States,El Paso,Texas,79907,Central,2014-03-01,5992.54,236.66,9
+JK-16090,Juliana Krohn,Corporate,United States,Louisville,Kentucky,40214,South,2015-04-21,4028.09,638.54,4
+JM-15250,Janet Martin,Consumer,United States,New York City,New York,10009,East,2016-03-29,3159.12,19.82,6
+SP-20650,Stephanie Phelps,Home Office,United States,Wilmington,North Carolina,28403,South,2014-04-16,2473.39,359.62,10
+AT-10435,Alyssa Tate,Home Office,United States,Akron,Ohio,44312,East,2014-11-24,1171.81,100.88,6
+TW-21025,Tamara Willingham,Consumer,United States,New York City,New York,10011,East,2014-12-22,5711.84,878.49,9
+NP-18700,Nora Preis,Consumer,United States,Bowling Green,Ohio,43402,East,2014-09-05,7903.18,631.23,7
+AH-10030,Aaron Hawkins,Corporate,United States,Troy,New York,12180,East,2014-04-22,1744.7,365.22,7
+LC-17050,Liz Carlisle,Consumer,United States,Mission Viejo,California,92691,West,2014-01-31,2095.06,86.78,5
+IM-15055,Ionia McGrath,Consumer,United States,Las Vegas,Nevada,89115,West,2014-01-23,2872.63,975.77,3
+AC-10660,Anna Chung,Consumer,United States,Parma,Ohio,44134,East,2014-10-15,657.32,-28.7,5
+AH-10465,Amy Hunt,Consumer,United States,Dallas,Texas,75217,Central,2015-01-03,2495.39,-196.12,5
+GH-14425,Gary Hwang,Corporate,United States,Seattle,Washington,98105,West,2014-06-17,4873.46,1355.35,6
+AG-10330,Alex Grayson,Consumer,United States,Tulsa,Oklahoma,74133,Central,2016-08-03,660.97,-5.14,5
+JK-15640,Jim Kriz,Home Office,United States,San Francisco,California,94110,West,2014-09-19,4760.43,1172.53,9
+JM-15580,Jill Matthias,Consumer,United States,Baltimore,Maryland,21215,East,2016-04-14,303.95,113.12,5
+PJ-18835,Patrick Jones,Home Office,United States,Seattle,Washington,98115,West,2014-05-28,1403.96,603.95,11
+PW-19240,Pierre Wener,Consumer,United States,Louisville,Colorado,80027,West,2014-11-18,3922.42,1290.35,7
+DJ-13630,Doug Jacobs,Corporate,United States,Portland,Oregon,97206,West,2015-12-14,4145.76,770.99,5
+TP-21415,Tom Prescott,Corporate,United States,Freeport,New York,11520,East,2015-11-28,5808.37,-1250.27,8
+SH-19975,Sally Hughsby,Home Office,United States,Caldwell,Idaho,83605,West,2014-12-10,3599.86,722.55,15
+MG-18205,Mitch Gastineau,Corporate,United States,Jacksonville,Florida,32216,South,2017-04-10,16.74,-1.25,1
+BP-11095,Bart Pistole,Corporate,United States,Peoria,Illinois,61604,Central,2014-06-07,2442.04,433.98,12
+LT-16765,Larry Tron,Consumer,United States,Escondido,California,92025,West,2014-09-01,329.88,59.04,3
+SM-20950,Suzanne McNair,Corporate,United States,Philadelphia,Pennsylvania,19134,East,2014-09-29,5563.39,581.57,12
+TB-21625,Trudy Brown,Consumer,United States,New York City,New York,10035,East,2014-08-06,2797.67,379.88,9
+LR-17035,Lisa Ryan,Home Office,United States,Santa Clara,California,95051,West,2014-09-07,2123.21,-457.29,6
+DK-12835,Damala Kotsonis,Home Office,United States,San Francisco,California,94122,West,2014-03-26,4151.92,1059.84,14
+MB-17305,Maria Bertelson,Consumer,United States,Glendale,Arizona,85301,West,2014-08-08,1548.7,212.42,10
+GW-14605,Giulietta Weimer,Consumer,United States,Houston,Texas,77036,Central,2014-03-01,2189.02,-268.54,7
+JL-15835,John Lee,Consumer,United States,Los Angeles,California,90049,West,2014-04-18,9799.92,228.91,11
+TC-21535,Tracy Collins,Home Office,United States,Los Angeles,California,90049,West,2014-11-03,742.56,217.93,7
+TS-21610,Troy Staebel,Corporate,United States,Philadelphia,Pennsylvania,19143,East,2014-08-16,3652.21,-395.16,9
+MK-17905,Michael Kennedy,Home Office,United States,Franklin,Wisconsin,53132,Central,2014-11-18,2940.41,-471.58,10
+AJ-10945,Ashley Jarboe,Corporate,United States,Wilmington,North Carolina,28403,South,2014-03-03,2064.23,703.52,8
+VW-21775,Victoria Wilson,Corporate,United States,Huntsville,Texas,77340,Central,2014-05-11,6134.04,-874.66,10
+MH-17440,Mark Haberlin,Corporate,United States,Escondido,California,92025,West,2014-02-04,400.02,61.43,4
+NF-18385,Natalie Fritzler,Consumer,United States,Chesapeake,Virginia,23320,South,2014-02-11,8322.83,-1695.97,7
+NB-18655,Nona Balk,Corporate,United States,Philadelphia,Pennsylvania,19134,East,2014-12-05,1972.6,117.64,9
+NF-18595,Nicole Fjeld,Home Office,United States,San Jose,California,95123,West,2014-04-19,2031.47,388.21,7
+CM-11935,Carlos Meador,Corporate,United States,Tucson,Arizona,85705,West,2015-09-24,657.56,-58.26,4
+NG-18430,Nathan Gelder,Consumer,United States,Cincinnati,Ohio,45231,East,2014-11-24,1395.94,217.09,5
+TB-21190,Thomas Brumley,Consumer,United States,New York City,New York,10011,East,2014-12-27,923.32,222.01,7
+JF-15190,Jamie Frazer,Corporate,United States,Johnson City,Tennessee,37604,South,2014-11-15,2835.93,701.07,9
+CC-12100,Chad Cunningham,Home Office,United States,Los Angeles,California,90049,West,2014-12-16,1770.94,208.59,6
+DO-13435,Denny Ordway,Corporate,United States,Columbus,Ohio,43229,East,2014-10-03,1613.33,-44.76,10
+SC-20845,Sung Chung,Consumer,United States,Arlington Heights,Illinois,60004,Central,2016-11-11,280.63,31.18,2
+JM-15535,Jessica Myrick,Consumer,United States,Philadelphia,Pennsylvania,19143,East,2014-09-13,1733.44,356.54,7
+GT-14635,Grant Thornton,Home Office,United States,Long Beach,New York,11561,East,2014-06-06,9909.43,-4262.44,4
+EM-14065,Erin Mull,Consumer,United States,New York City,New York,10024,East,2014-07-22,228.99,40.15,4
+RH-19495,Rick Hansen,Consumer,United States,New York City,New York,10009,East,2014-08-23,3621.38,563.79,5
+ML-18040,Michelle Lonsdale,Home Office,United States,Dearborn,Michigan,48126,Central,2017-03-26,841.47,174.22,5
+DW-13540,Don Weiss,Consumer,United States,Houston,Texas,77070,Central,2016-02-27,344.08,69.67,5
+SC-20440,Shaun Chance,Corporate,United States,New Bedford,Massachusetts,2740,East,2015-08-17,1875.0,379.56,7
+SC-20695,Steve Chapman,Home Office,United States,Detroit,Michigan,48227,Central,2014-12-16,3118.24,645.52,13
+FM-14380,Fred McMath,Consumer,United States,Amarillo,Texas,79109,Central,2015-07-12,2523.27,191.49,9
+ML-17410,Maris LaWare,Consumer,United States,Fairfield,Connecticut,6824,East,2014-11-14,2921.5,-76.18,6
+SC-20800,Stuart Calhoun,Consumer,United States,Houston,Texas,77041,Central,2015-12-11,279.26,51.83,4
+RL-19615,Rob Lucas,Consumer,United States,Los Angeles,California,90045,West,2014-12-05,6234.91,488.15,8
+LH-16750,Larry Hughes,Consumer,United States,Philadelphia,Pennsylvania,19140,East,2014-09-21,287.43,12.63,3
+JG-15310,Jason Gross,Corporate,United States,Odessa,Texas,79762,Central,2016-03-03,2240.58,3.8,6
+AP-10915,Arthur Prichep,Corporate,United States,Denver,Colorado,80219,West,2014-08-23,4363.83,744.22,12
+HP-14815,Harold Pawlan,Home Office,United States,Los Angeles,California,90049,West,2014-05-06,1990.31,373.86,7
+BD-11635,Brian Derr,Corporate,United States,Columbus,Ohio,43229,East,2014-10-05,683.67,172.07,5
+GZ-14545,George Zrebassa,Corporate,United States,Lawrence,Massachusetts,1841,East,2014-09-28,2454.62,828.66,4
+MG-17695,Maureen Gnade,Consumer,United States,Philadelphia,Pennsylvania,19134,East,2014-12-26,1342.28,-398.79,3
+NH-18610,Nicole Hansen,Corporate,United States,Philadelphia,Pennsylvania,19120,East,2014-03-02,2673.29,760.17,7
+SB-20290,Sean Braxton,Home Office,United States,Henderson,Kentucky,42420,South,2014-05-09,9865.67,-2441.22,8
+PW-19030,Pauline Webber,Home Office,United States,Los Angeles,California,90036,West,2014-05-16,4489.36,860.56,11
+KH-16690,Kristen Hastings,Home Office,United States,Springfield,Virginia,22153,South,2014-03-21,7780.55,1266.9,10
+TM-21010,Tamara Manning,Consumer,United States,Woodstock,Illinois,60098,Central,2014-02-21,2955.23,573.3,8
+CA-12055,Cathy Armstrong,Home Office,United States,Houston,Texas,77036,Central,2015-09-05,1679.72,211.26,5
+CG-12520,Claire Gute,Corporate,United States,Dallas,Texas,75217,Central,2015-10-15,1300.9,237.01,6
+DH-13675,Duane Huffman,Home Office,United States,Miami,Florida,33180,South,2014-08-12,1043.1,116.67,4
+LH-17155,Logan Haushalter,Corporate,United States,Oakland,California,94601,West,2014-12-12,2134.58,365.45,10
+CS-12175,Charles Sheldon,Home Office,United States,Lakewood,New Jersey,8701,East,2014-08-12,1078.46,125.55,7
+CM-12115,Chad McGuire,Consumer,United States,New York City,New York,10024,East,2015-03-29,1661.61,409.07,4
+BP-11230,Benjamin Patterson,Consumer,United States,Los Angeles,California,90045,West,2014-04-20,1181.49,-197.27,5
+JP-16135,Julie Prescott,Home Office,United States,New York City,New York,10011,East,2014-09-23,1707.71,309.71,9
+LS-16945,Linda Southworth,Corporate,United States,Los Angeles,California,90004,West,2015-04-25,2845.27,-318.77,6
+HM-14980,Henry MacAllister,Corporate,United States,Los Angeles,California,90008,West,2015-10-02,802.66,159.48,7
+DH-13075,Dave Hallsten,Corporate,United States,Richmond,Kentucky,40475,South,2014-11-21,4932.87,1193.74,6
+RK-19300,Ralph Kennedy,Consumer,United States,South Bend,Indiana,46614,Central,2015-07-20,1460.19,269.69,3
+JC-15385,Jenna Caffey,Consumer,United States,Kent,Washington,98031,West,2017-07-08,1058.11,502.92,1
+VB-21745,Victoria Brennan,Corporate,United States,Houston,Texas,77041,Central,2015-07-17,2005.6,371.24,6
+JL-15235,Janet Lee,Consumer,United States,Chicago,Illinois,60623,Central,2014-05-25,2203.7,54.52,5
+AC-10615,Ann Chong,Corporate,United States,Philadelphia,Pennsylvania,19143,East,2015-09-15,2537.69,298.83,5
+CC-12430,Chuck Clark,Consumer,United States,New York City,New York,10024,East,2015-09-06,3823.36,507.4,12
+DB-12970,Darren Budd,Corporate,United States,Houston,Texas,77036,Central,2014-11-12,2839.23,213.0,5
+RB-19645,Robert Barroso,Home Office,United States,Los Angeles,California,90032,West,2014-08-23,245.88,88.95,7
+CM-12445,Chuck Magee,Consumer,United States,San Francisco,California,94122,West,2014-06-09,287.99,64.43,3
+JW-16075,Julia West,Corporate,United States,Jacksonville,North Carolina,28540,South,2015-03-21,1839.55,207.91,5
+DL-12865,Dan Lawera,Consumer,United States,Cincinnati,Ohio,45231,East,2014-06-29,1503.11,322.24,8
+AG-10390,Allen Goldenen,Consumer,United States,Arlington,Virginia,22204,South,2014-04-19,200.94,69.28,5
+SF-20200,Sarah Foster,Corporate,United States,Richmond,Indiana,47374,Central,2014-12-23,4339.54,309.75,12
+CM-11815,Candace McMahon,Home Office,United States,Pasadena,Texas,77506,Central,2014-11-14,2252.36,236.99,9
+IL-15100,Ivan Liston,Corporate,United States,San Francisco,California,94122,West,2014-08-01,5922.83,1393.69,8
+ME-18010,Michelle Ellison,Home Office,United States,San Francisco,California,94122,West,2014-07-21,1417.81,140.88,6
+MC-17845,Michael Chen,Consumer,United States,Jackson,Mississippi,39212,South,2014-07-05,3805.71,698.42,7
+LB-16735,Larry Blacks,Corporate,United States,Los Angeles,California,90032,West,2016-07-25,55.18,25.22,5
+TG-21310,Toby Gnade,Consumer,United States,Raleigh,North Carolina,27604,South,2015-03-09,3058.37,682.17,5
+YS-21880,Yana Sorensen,Corporate,United States,Newark,Delaware,19711,East,2015-01-12,6720.44,1778.29,8
+Dl-13600,Dorris liebe,Corporate,United States,Seattle,Washington,98105,West,2014-03-30,755.6,175.24,5
+BH-11710,Brosina Hoffman,Corporate,United States,Los Angeles,California,90032,West,2014-06-09,7339.79,924.83,10
+BB-10990,Barry Blumstein,Corporate,United States,Los Angeles,California,90036,West,2014-07-27,744.34,11.58,5
+FH-14350,Fred Harton,Corporate,United States,Atlanta,Georgia,30318,South,2015-08-23,2424.27,915.37,5
+LF-17185,Luke Foster,Consumer,United States,San Antonio,Texas,78207,Central,2014-07-26,3930.51,-3583.98,7
+CM-12385,Christopher Martinez,Consumer,United States,Atlanta,Georgia,30318,South,2015-03-16,8954.02,3899.89,4
+LS-17230,Lycoris Saunders,Consumer,United States,Los Angeles,California,90049,West,2014-01-06,368.88,39.2,3
+KB-16600,Ken Brennan,Corporate,United States,Taylor,Michigan,48180,Central,2014-12-30,983.92,293.55,7
+SC-20305,Sean Christensen,Consumer,United States,Beaumont,Texas,77705,Central,2014-12-16,3979.06,229.16,7
+AA-10375,Allen Armold,Consumer,United States,Los Angeles,California,90008,West,2014-04-21,1056.39,277.38,9
+MH-17620,Matt Hagelstein,Home Office,United States,San Diego,California,92105,West,2015-12-05,1495.98,152.8,6
+SG-20470,Sheri Gordon,Corporate,United States,Atlanta,Georgia,30318,South,2014-07-26,2014.95,-145.56,9
+HG-15025,Hunter Glantz,Corporate,United States,Fort Worth,Texas,76106,Central,2014-10-14,4542.12,884.64,9
+BE-11455,Brad Eason,Consumer,United States,Providence,Rhode Island,2908,East,2015-08-02,1901.98,157.74,9
+AR-10510,Andrew Roberts,Consumer,United States,Columbus,Ohio,43229,East,2014-05-02,264.86,43.67,5
+DW-13480,Dianna Wilson,Home Office,United States,Lakeville,Minnesota,55044,Central,2014-06-01,5271.63,1348.76,5
+DK-13150,David Kendrick,Corporate,United States,Decatur,Illinois,62521,Central,2014-12-05,797.83,249.94,2
+BK-11260,Berenike Kampe,Corporate,United States,New York City,New York,10035,East,2014-08-03,770.11,-78.3,7
+NF-18475,Neil FranzÃ¶sisch,Home Office,United States,Jacksonville,Florida,32216,South,2014-03-14,377.16,85.93,4
+SC-20230,Scot Coram,Home Office,United States,Lowell,Massachusetts,1852,East,2016-06-06,5860.14,574.32,6
+DA-13450,Dianna Arnett,Home Office,United States,Houston,Texas,77095,Central,2014-04-25,156.76,56.79,4
+NK-18490,Neil Knudson,Home Office,United States,Seattle,Washington,98105,West,2015-05-28,572.05,121.22,7
+NG-18355,Nat Gilpin,Corporate,United States,Jackson,Michigan,49201,Central,2014-11-24,1869.58,313.63,5
+SB-20185,Sarah Brown,Corporate,United States,Chicago,Illinois,60653,Central,2014-09-20,7654.82,1036.8,9
+JL-15130,Jack Lebron,Corporate,United States,New Rochelle,New York,10801,East,2014-07-18,1483.13,-255.28,9
+JF-15355,Jay Fein,Corporate,United States,San Diego,California,92105,West,2015-10-23,2374.14,359.68,8
+DD-13570,Dorothy Dickinson,Consumer,United States,Chicago,Illinois,60610,Central,2014-03-31,269.54,36.43,6
+GM-14695,Greg Maxwell,Home Office,United States,Alexandria,Virginia,22304,South,2014-04-05,7456.14,209.22,6
+MZ-17515,Mary Zewe,Home Office,United States,Los Angeles,California,90008,West,2014-04-04,2761.18,812.63,9
+EB-13975,Erica Bern,Corporate,United States,Charlotte,North Carolina,28205,South,2016-01-04,1643.26,162.88,4
+KM-16225,Kalyca Meade,Corporate,United States,New York City,New York,10011,East,2015-07-06,2260.96,635.11,6
+LS-17245,Lynn Smith,Consumer,United States,San Francisco,California,94110,West,2014-10-16,1008.14,348.36,6
+AM-10360,Alice McCarthy,Corporate,United States,Omaha,Nebraska,68104,Central,2014-10-06,814.01,194.99,5
+CS-12250,Chris Selesnick,Home Office,United States,Bossier City,Louisiana,71111,South,2014-01-13,3702.05,903.33,15
+SM-20320,Sean Miller,Home Office,United States,Jacksonville,Florida,32216,South,2014-03-18,25043.05,-1980.74,5
+KA-16525,Kelly Andreada,Consumer,United States,New York City,New York,10024,East,2014-03-11,1519.51,234.92,7
+MW-18220,Mitch Webber,Consumer,United States,Seattle,Washington,98103,West,2014-08-25,5341.9,1238.42,7
+RD-19930,Russell D'Ascenzo,Corporate,United States,Dallas,Texas,75217,Central,2014-10-03,1287.23,45.06,5
+BS-11590,Brendan Sweed,Corporate,United States,Philadelphia,Pennsylvania,19140,East,2014-01-14,2454.93,381.78,6
+RW-19690,Robert Waldorf,Corporate,United States,Wilmington,North Carolina,28403,South,2016-05-30,4591.42,970.15,6
+BG-11740,Bruce Geld,Consumer,United States,Delray Beach,Florida,33445,South,2014-03-23,1006.36,119.35,6
+JH-15820,John Huston,Corporate,United States,Midland,Michigan,48640,Central,2014-05-19,630.92,28.07,7
+PV-18985,Paul Van Hugh,Home Office,United States,League City,Texas,77573,Central,2014-07-12,2876.05,434.53,5
+JO-15280,Jas O'Carroll,Consumer,United States,Philadelphia,Pennsylvania,19120,East,2014-03-31,1934.27,202.14,6
+MC-17635,Matthew Clasen,Corporate,United States,Richmond,Indiana,47374,Central,2014-11-28,795.15,-247.94,4
+RW-19630,Rob Williams,Corporate,United States,Detroit,Michigan,48234,Central,2014-06-28,3279.75,698.83,9
+EM-13960,Eric Murdock,Consumer,United States,Quincy,Illinois,62301,Central,2015-10-01,933.7,102.3,5
+RD-19810,Ross DeVincentis,Consumer,United States,Fayetteville,North Carolina,28314,South,2014-10-27,1430.57,363.75,9
+DR-12880,Dan Reichenbach,Home Office,United States,New York City,New York,10011,East,2015-09-25,7830.04,1713.59,12
+MF-18250,Monica Federle,Home Office,United States,Philadelphia,Pennsylvania,19120,East,2014-09-15,2327.9,585.4,7
+SU-20665,Stephanie Ulpright,Consumer,United States,Ann Arbor,Michigan,48104,Central,2015-12-05,3180.73,927.18,10
+JH-16180,Justin Hirsh,Consumer,United States,Pueblo,Colorado,81001,West,2015-05-25,2256.39,-96.95,4
+TB-21280,Toby Braunhardt,Corporate,United States,New York City,New York,10024,East,2014-06-21,2358.63,601.01,7
+EM-14200,Evan Minnotte,Home Office,United States,Miami,Florida,33142,South,2015-12-20,366.82,21.77,3
+DB-13120,David Bremer,Corporate,United States,Tampa,Florida,33614,South,2015-05-01,2973.09,-1421.77,7
+AY-10555,Andy Yotov,Corporate,United States,Los Angeles,California,90049,West,2014-04-06,497.01,103.35,4
+LH-16900,Lena Hernandez,Consumer,United States,Jonesboro,Arkansas,72401,South,2014-08-19,2295.33,526.07,9
+TC-21295,Toby Carlisle,Corporate,United States,Everett,Massachusetts,2149,East,2014-10-14,4527.28,700.53,11
+JS-15685,Jim Sink,Corporate,United States,Philadelphia,Pennsylvania,19140,East,2016-06-14,1131.06,-54.87,4
+NC-18415,Nathan Cano,Consumer,United States,Yonkers,New York,10701,East,2014-05-03,2218.99,-2204.81,6
+CC-12220,Chris Cortes,Consumer,United States,Chicago,Illinois,60653,Central,2014-09-09,3913.42,393.96,12
+TH-21115,Thea Hudgings,Home Office,United States,Newark,Delaware,19711,East,2014-09-23,3292.43,-334.04,7
+GB-14575,Giulietta Baptist,Consumer,United States,Philadelphia,Pennsylvania,19134,East,2015-06-12,4716.29,1135.84,5
+NC-18625,Noah Childs,Home Office,United States,Columbus,Indiana,47201,Central,2014-10-29,1920.3,-383.77,8
+AH-10120,Adrian Hane,Consumer,United States,Tucson,Arizona,85705,West,2014-07-18,1869.67,-2.67,10
+CR-12580,Clay Rozendal,Home Office,United States,Elmhurst,Illinois,60126,Central,2016-04-18,2148.85,74.4,4
+SA-20830,Sue Ann Reed,Consumer,United States,Moreno Valley,California,92553,West,2014-02-22,4767.34,610.15,10
